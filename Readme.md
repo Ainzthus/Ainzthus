@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/eY3jfAA.gif" alt="Banner GIF" width="98%" />
+<img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="Banner GIF" width="98%" />
 
 > Este repositorio reúne recursos, enlaces, proyectos y herramientas relacionados con mis intereses.
 Soy «Ainzthus», también conocido como (Kazuo), (AZTH6), tengo curiosidad sobre todo y aprendo de forma iregular.
