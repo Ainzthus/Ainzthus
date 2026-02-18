@@ -69,16 +69,16 @@ Esto permite transmitir a **8000–8500 Kbps**, mejorando notablemente la calida
 ## 🧠 Opciones avanzadas AMF (Encoder AMD)
 
 ```
+ProfileLevel=42
+HighMotionQualityBoostEnable=0
+RateControlPreanalysisEnable=0
 MaxNumRefFrames=4
 BReferenceEnable=1
 BPicturesPattern=1
 MaxConsecutiveBPictures=1
-HighMotionQualityBoostEnable=1
 EnableVBAQ=false
-RateControlPreanalysisEnable=0
 AdaptiveMiniGOP=false
 RateControlSkipFrameEnable=false
-EnablePreAnalysis=true
 PASceneChangeDetectionEnable=false
 PATemporalAQMode=1
 PAFrameSadEnable=true
@@ -86,6 +86,11 @@ HalfPixel=true
 QuarterPixel=true
 DeBlockingFilter=true
 FillerDataEnable=true
+EnforceHRD=1
+VBVBufferSize=12000000
+PeakBitrate=8500000
+MinQP=20
+MaxQP=45
 ```
 
 ---
