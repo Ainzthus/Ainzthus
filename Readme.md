@@ -16,11 +16,13 @@
 
 </p>
 
-Soy curioso de naturaleza, me gusta explorar diferentes métodos hasta encontrar la perfección o eso me digo a mí mismo para calmar y terminar el proyecto, me gusta la filosofía el cuerpo humano y la explotación laboral el piano conexiones neuronales y disfruto mucho mirando un punto fijo y admirándolo por horas :)
+Soy curioso de naturaleza, me gusta explorar diferentes metodos hasta encontrar la manera mas efectiva y comoda posible, me gusta la filosofia, tecnologias, nuevas la explotacion laboral, 
+el piano, los videojuegos, y disfruto mucho la sencillez de la vida, se sobre la edicion de video y imagen de manera simple las redes sociales un poco de psicologia reflexion motivacion o formas de buscar el problema se mental o fisico,
+organizar estructura complejas, aprender nuevas habilidades a prueba error y mantengo bien el control ante las dificultades, y disfruto mucho la sencillez. :)
 
-Aspiro en convertirme en alguin que decida y no se quede en un mismo lugar y compartir con los demas el mismo interes
+Aspiro en convertirme en alguien grande de la forma mas sencilla posible, y no qudarme pegado a un solo lugar explorar nuevos metodos o formas compartiendolo con los que me agradan.
 
-Actualmente empiezo a vivir una vida normal mientras experimento y aprendo de mis errores
+Actualmente: trabajo, y voy mejorando mi comunicacion y tareas del dia a dia cuando tengo tiempo libre estudio lo mejor que tenga a mano, o simplemente juego un rato.
 
 ---
 <a href="[https://xhslink.com/m/2KRdOuiDQKS](https://www.twitch.tv/ainzthus)" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
