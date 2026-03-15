@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/1200x/ab/4e/ea/ab4eea676a02ef64ea514b90a26039ff.jpg" alt="Banner GIF" width="99%" />
-
 ## 👋 Hi! I'm 666xTz
 
 <p align="left"> 
@@ -29,3 +27,5 @@ Actualmente: trabajo, y voy mejorando mi comunicacion y tareas del dia a dia cua
 <a href="https://www.twitch.tv/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 <a href="https://x.com/Ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<img src="https://i.pinimg.com/1200x/ab/4e/ea/ab4eea676a02ef64ea514b90a26039ff.jpg" alt="Banner GIF" width="99%" />
