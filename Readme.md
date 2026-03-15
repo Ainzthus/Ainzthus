@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/ea/8c/b8/ea8cb89d0e4b95c1df7f549f1b1a2ea4.jpg" alt="Banner GIF" width="99%" />
+<img src="https://i.pinimg.com/1200x/ab/4e/ea/ab4eea676a02ef64ea514b90a26039ff.jpg" alt="Banner GIF" width="99%" />
 
 ## 👋 Hi! I'm 666xTz
 
