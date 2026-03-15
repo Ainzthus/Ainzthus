@@ -25,6 +25,7 @@ Aspiro en convertirme en alguien grande de la forma mas sencilla posible, y no q
 Actualmente: trabajo, y voy mejorando mi comunicacion y tareas del dia a dia cuando tengo tiempo libre estudio lo mejor que tenga a mano, o simplemente juego un rato.
 
 ---
+
 <a href="https://www.twitch.tv/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 <a href="https://x.com/Ainzthus" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/ainzthus" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
